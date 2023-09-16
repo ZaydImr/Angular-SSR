@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "public": true,
+    "name": "angular-ssr-startup",
+    "rewrites": [
+      { "source": "/(.*)", "destination": "/api" }
+    ],
+    "functions": {
+      "api/index.js": {
+        "includeFiles": "dist/angular-ssr-startup/browser/**"
+      }
+    }
+  }

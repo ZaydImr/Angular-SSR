@@ -1,0 +1,6 @@
+.tools{
+    @apply mb-2 p-2;
+    .tool{
+        @apply flex items-center justify-center gap-2 p-2;
+    }
+}
