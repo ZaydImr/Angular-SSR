@@ -1,6 +1,11 @@
-# DevGuide
+# Angular SSR Startup
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+This project was created with :<br/>
+[Angular](https://angular.io/) version 16.2.2.<br/>
+[Server-side rendering (SSR)](https://angular.io/guide/universal) for Angular 16.2.2.<br/>
+[Progress Web Application (PWA)](https://angular.io/guide/service-worker-getting-started) for Angular 16.2.2.<br/>
+[TailwindCSS](https://tailwindcss.com/) version 3.3.3.<br/>
+[Vercel deployment](https://vercel.com/).
 
 ## Development server
 
