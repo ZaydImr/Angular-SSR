@@ -7,6 +7,13 @@ This project was created with :<br/>
 [TailwindCSS](https://tailwindcss.com/) version 3.3.3.<br/>
 [Vercel deployment](https://vercel.com/).
 
+## Install application
+
+- Open your terminal.
+- run `cd {{path_where_you_want_the_project}}`
+- run `npx angular-ssr-startup`
+- run `cd angular-ssr-startup` and enjoy :)
+
 ## Development server
 
 Run `npm run dev:ssr` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
